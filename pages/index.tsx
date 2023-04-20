@@ -27,6 +27,9 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+              src="/images/novel_12quartstockpotwithlid_zoom-993482791.jpg"
+              alt="pot"/>
           </a>
         </div>
       </div>
